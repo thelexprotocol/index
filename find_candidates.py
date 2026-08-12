@@ -160,6 +160,8 @@ def draft_reply(issue: dict) -> str:
 
 It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
 
+Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+
 Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
 
 (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)"""
