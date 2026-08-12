@@ -1,0 +1,50 @@
+name: LexProtocol GitHub Outreach Bot
+
+# Runs on its own every weekday. You can also trigger it manually from
+# the "Actions" tab in this repo (look for "Run workflow").
+on:
+  schedule:
+    - cron: '0 15 * * 1-5'   # 15:00 UTC = 10:00am Central, Mon-Fri
+  workflow_dispatch: {}
+
+# Needed so the job can commit the updated dedupe/log files back to
+# this repo at the end of each run.
+permissions:
+  contents: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Find new candidates (read-only, searches public GitHub issues)
+        env:
+          GITHUB_TOKEN: ${{ secrets.LEX_BOT_TOKEN }}
+          HOME: ${{ github.workspace }}
+        run: python find_candidates.py
+
+      - name: Auto-post up to the daily cap
+        env:
+          GITHUB_TOKEN: ${{ secrets.LEX_BOT_TOKEN }}
+          HOME: ${{ github.workspace }}
+        run: python auto_post.py
+
+      - name: Save state back to the repo (dedupe DB + post log)
+        env:
+          HOME: ${{ github.workspace }}
+        run: |
+          git config user.name "lexprotocol-bot"
+          git config user.email "bot@thelexprotocol.com"
+          git add -f .lexprotocol/ || true
+          git diff --staged --quiet || git commit -m "Update bot state [skip ci]"
+          git push
