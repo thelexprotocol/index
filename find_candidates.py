@@ -51,7 +51,7 @@ LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "30"))
 
 # Cap how many NEW candidates we surface per run — this is a review queue,
 # not a firehose. Keep it small enough that a human can actually read it.
-MAX_CANDIDATES_PER_RUN = int(os.environ.get("MAX_CANDIDATES_PER_RUN", "15"))
+MAX_CANDIDATES_PER_RUN = int(os.environ.get("MAX_CANDIDATES_PER_RUN", "25"))
 
 DB_PATH = Path(os.environ.get("BOT_DB", "~/.lexprotocol/candidates.db")).expanduser()
 QUEUE_MD_PATH = Path(os.environ.get("QUEUE_MD", "~/.lexprotocol/review_queue.md")).expanduser()
@@ -66,6 +66,20 @@ SEARCH_QUERIES = [
     '"agent accountability" in:title,body',
     '"attestation" AI agent in:title,body',
     'log every agent action verifiable in:body',
+    '"prove what my agent did" in:body',
+    '"EU AI Act" agent compliance in:title,body',
+    '"immutable log" agent decision in:body',
+    '"agent decision log" verifiable in:body',
+    '"audit AI agent" decisions in:title,body',
+    '"agent dispute" prove in:body',
+    'compliance "autonomous agent" in:title,body',
+    'need "third-party" verification agent in:body',
+    '"agent liability" prove in:body',
+    'LangChain callback audit in:body',
+    'CrewAI compliance OR audit in:body',
+    '"cryptographic" sign agent action in:body',
+    '"tamper-proof" agent log in:body',
+    '"verifiable" AI decision record in:body',
 ]
 
 EXCLUDE_IF_MENTIONS = ["lexprotocol"]  # skip issues that already mention us
