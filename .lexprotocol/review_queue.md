@@ -4934,3 +4934,431 @@ Repo: kontourai/station | Opened: 2026-08-28T01:11:48Z
 > (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
 
 ---
+
+
+## Run at 2026-08-31T15:05:34.467450+00:00 — 25 new candidate(s)
+
+### [Decision: a productive-liveness detector — nothing in the swarm watches for absence of output at the component level](https://github.com/markmhendrickson/ateles/issues/580)
+Repo: markmhendrickson/ateles | Opened: 2026-08-31T14:59:13Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Decision: a productive-liveness detector — nothing in the swarm watches for absence of output at the component level" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [Workflow runtime: Durable reviewed procedural execution](https://github.com/davidadel66/evie/issues/72)
+Repo: davidadel66/evie | Opened: 2026-08-31T14:19:39Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Workflow runtime: Durable reviewed procedural execution" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [A device's control URL can only be set at enrolment, so moving a control plane orphans every device](https://github.com/meshpnet/meshp/issues/196)
+Repo: meshpnet/meshp | Opened: 2026-08-31T13:53:13Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "A device's control URL can only be set at enrolment, so moving a control plane orphans every device" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [Post-D-0084: every required check is mechanical — consider enforce_admins: true, and record the canon tier divergence](https://github.com/vladm3105/aidoc-flow-framework/issues/597)
+Repo: vladm3105/aidoc-flow-framework | Opened: 2026-08-31T13:53:04Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Post-D-0084: every required check is mechanical — consider enforce_admins: true, and record the canon tier divergence" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [Persist completed focused-Space turns across reload](https://github.com/Ic3b3rg/veduta/issues/144)
+Repo: Ic3b3rg/veduta | Opened: 2026-08-31T13:51:02Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Persist completed focused-Space turns across reload" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [Specification: governed candidate-factor hypotheses and conditional opportunity sizing](https://github.com/mlu-ai/growth-data-agent/issues/72)
+Repo: mlu-ai/growth-data-agent | Opened: 2026-08-31T13:49:48Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Specification: governed candidate-factor hypotheses and conditional opportunity sizing" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [harness: a dispatched-card relay intrudes into an agent's private DM and folds speaker-labeled narration into the body](https://github.com/tinyhumansai/opencompany/issues/1948)
+Repo: tinyhumansai/opencompany | Opened: 2026-08-31T13:47:13Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "harness: a dispatched-card relay intrudes into an agent's private DM and folds speaker-labeled narration into the body" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [An Agent worktree runs alongside its parent, and the guard counts sessions](https://github.com/MichaelYcJo/SpecSeal/issues/8)
+Repo: MichaelYcJo/SpecSeal | Opened: 2026-08-31T13:19:13Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "An Agent worktree runs alongside its parent, and the guard counts sessions" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [Owner-first proactive operator overrides outside Recovery](https://github.com/JulioMarte/request-engine/issues/103)
+Repo: JulioMarte/request-engine | Opened: 2026-08-31T12:57:26Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Owner-first proactive operator overrides outside Recovery" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [feat(24-RTC Learning): Temporal Data — Testament of Time, Manhole Retrieval, Context Engineering & RTC Validation](https://github.com/RobynAwesome/Introduction-to-MCP/issues/116)
+Repo: RobynAwesome/Introduction-to-MCP | Opened: 2026-08-31T12:21:58Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "feat(24-RTC Learning): Temporal Data — Testament of Time, Manhole Retrieval, Context Engineering & RTC Validation" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [fix(seats-corpse-retire-gc): daily GC for seats-corpse-retired-* dirs (9 dirs/5h, append-only, no quota)](https://github.com/Nishfleet/fleet-ops/issues/2540)
+Repo: Nishfleet/fleet-ops | Opened: 2026-08-31T12:04:07Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "fix(seats-corpse-retire-gc): daily GC for seats-corpse-retired-* dirs (9 dirs/5h, append-only, no quota)" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [🚨 Elite Alert: 🤖 Elite AI Agent v1.7 - Self-Healing Oracle failed - Action Required](https://github.com/SolanaRemix/node/issues/1064)
+Repo: SolanaRemix/node | Opened: 2026-08-31T12:03:30Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "🚨 Elite Alert: 🤖 Elite AI Agent v1.7 - Self-Healing Oracle failed - Action Required" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [mutation-nightly is failing](https://github.com/craigoley/remudero/issues/3387)
+Repo: craigoley/remudero | Opened: 2026-08-31T12:02:02Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "mutation-nightly is failing" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [Memory evolution ideas (external feedback): provenance events, per-agent room scopes, contradiction resolution](https://github.com/codecoradev/uteke/issues/1172)
+Repo: codecoradev/uteke | Opened: 2026-08-31T11:40:33Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Memory evolution ideas (external feedback): provenance events, per-agent room scopes, contradiction resolution" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [[ux] Notificar al operador los rebotes infra antes de que el bucle llegue al umbral de escalada](https://github.com/intrale/platform/issues/6744)
+Repo: intrale/platform | Opened: 2026-08-31T11:39:30Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "[ux] Notificar al operador los rebotes infra antes de que el bucle llegue al umbral de escalada" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [Security: harden the token=RCE threat model (rotation, audit logging, rate limiting)](https://github.com/Shamshadz/FoxyGPU/issues/5)
+Repo: Shamshadz/FoxyGPU | Opened: 2026-08-31T11:09:59Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Security: harden the token=RCE threat model (rotation, audit logging, rate limiting)" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [Erasing with "Sync deletion" off does not keep the erase local: the data returns on the next sync, but its history never does](https://github.com/BootBlock/Gubbins/issues/891)
+Repo: BootBlock/Gubbins | Opened: 2026-08-31T10:49:22Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Erasing with "Sync deletion" off does not keep the erase local: the data returns on the next sync, but its history never does" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [[guru] Registrar un audit trail JSONL de las decisiones de clasificacion de rebotes](https://github.com/intrale/platform/issues/6740)
+Repo: intrale/platform | Opened: 2026-08-31T10:42:02Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "[guru] Registrar un audit trail JSONL de las decisiones de clasificacion de rebotes" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [feat(forge): slice 2: the PR lifecycle routes through the forge contract](https://github.com/coleam00/Archon/issues/3042)
+Repo: coleam00/Archon | Opened: 2026-08-31T10:28:05Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "feat(forge): slice 2: the PR lifecycle routes through the forge contract" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [cross-issue-influence guard (assertCrossIssueInfluenceWithinRunCap) is never called on PUT /issues/:id/documents/:key or POST /issues/:id/interactions (create) — undocumented scope gap](https://github.com/paperclipai/paperclip/issues/12578)
+Repo: paperclipai/paperclip | Opened: 2026-08-31T10:26:09Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "cross-issue-influence guard (assertCrossIssueInfluenceWithinRunCap) is never called on PUT /issues/:id/documents/:key or POST /issues/:id/interactions (create) — undocumented scope gap" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [[News Bot] 11 article(s) need review](https://github.com/chobrien99-svg/AMI-Labs/issues/224)
+Repo: chobrien99-svg/AMI-Labs | Opened: 2026-08-31T14:51:48Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "[News Bot] 11 article(s) need review" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [Cline (latest) was independently reviewed on Hlido — scored 90/100, right of reply open](https://github.com/cline/cline/issues/13710)
+Repo: cline/cline | Opened: 2026-08-31T11:00:58Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Cline (latest) was independently reviewed on Hlido — scored 90/100, right of reply open" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [LangGraph Platform was independently reviewed on Hlido — scored 90/100, right of reply open](https://github.com/langchain-ai/langgraph/issues/8766)
+Repo: langchain-ai/langgraph | Opened: 2026-08-31T11:00:57Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "LangGraph Platform was independently reviewed on Hlido — scored 90/100, right of reply open" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [AgentOps was independently reviewed on Hlido — scored 90/100, right of reply open](https://github.com/AgentOps-AI/agentops/issues/1444)
+Repo: AgentOps-AI/agentops | Opened: 2026-08-31T11:00:56Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "AgentOps was independently reviewed on Hlido — scored 90/100, right of reply open" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
+
+### [Your Brier-to-trust-weight loop, with the scoring half run by a third party](https://github.com/James-Kupfer/investment-forecaster/issues/35)
+Repo: James-Kupfer/investment-forecaster | Opened: 2026-08-31T10:07:16Z
+
+**Draft reply (NOT posted — review before approving):**
+
+> Saw this while looking through issues on "Your Brier-to-trust-weight loop, with the scoring half run by a third party" — LexProtocol might be relevant here.
+> 
+> It's a small library that signs and timestamps every action an agent takes, so you get a verifiable record after the fact instead of just internal logs. 3-line integration (`@attest` decorator), and there's a LangChain callback handler too if that's your stack.
+> 
+> Worth a look if you want the "why this matters" case for it: https://thelexprotocol.com/blog/agent-accountability-gap.html (a real agent-deleted-a-production-database incident + where EU AI Act enforcement stands as of this month).
+> 
+> Docs: https://thelexprotocol.com — happy to answer questions if useful, and no worries if it's not a fit for what you're building.
+> 
+> (I'm the person behind LexProtocol — flagging that up front. Feel free to tell me to buzz off if this isn't welcome here.)
+
+---
